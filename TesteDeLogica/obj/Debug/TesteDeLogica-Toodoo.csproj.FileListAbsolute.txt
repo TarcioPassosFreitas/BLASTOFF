@@ -1,0 +1,8 @@
+D:\BLASTOFF\TesteDeLogica\bin\Debug\TesteDeLogica.exe.config
+D:\BLASTOFF\TesteDeLogica\bin\Debug\TesteDeLogica.exe
+D:\BLASTOFF\TesteDeLogica\bin\Debug\TesteDeLogica.pdb
+D:\BLASTOFF\TesteDeLogica\obj\Debug\TesteDeLogica-Toodoo.csproj.AssemblyReference.cache
+D:\BLASTOFF\TesteDeLogica\obj\Debug\TesteDeLogica-Toodoo.csproj.SuggestedBindingRedirects.cache
+D:\BLASTOFF\TesteDeLogica\obj\Debug\TesteDeLogica-Toodoo.csproj.CoreCompileInputs.cache
+D:\BLASTOFF\TesteDeLogica\obj\Debug\TesteDeLogica.exe
+D:\BLASTOFF\TesteDeLogica\obj\Debug\TesteDeLogica.pdb
